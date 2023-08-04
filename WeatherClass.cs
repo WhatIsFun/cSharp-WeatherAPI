@@ -21,6 +21,13 @@ namespace cSharp_WeatherAPI
         public int id { get; set; }
         public string name { get; set; }
         public int cod { get; set; }
+        public override string ToString()
+        {
+            string weatherDescription = weather.Count > 0 ? weather[0].description : "N/A";
+            return $"City: {name}, \nThe temperature is: {main.temp},\nHumidity: {main.humidity}\nFeels like: {main.feels_like},\nDescription of Weather: {weatherDescription}";
+        }
+
+
         public class Coord
         {
             public double lon { get; set; }
@@ -59,5 +66,6 @@ namespace cSharp_WeatherAPI
             public long sunrise { get; set; }
             public long sunset { get; set; }
         }
+        
     }
 }

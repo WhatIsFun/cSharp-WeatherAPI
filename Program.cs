@@ -1,4 +1,7 @@
-﻿namespace cSharp_WeatherAPI
+﻿using Microsoft.VisualBasic;
+using Newtonsoft.Json;
+
+namespace cSharp_WeatherAPI
 {
     internal class Program
     {
@@ -7,15 +10,20 @@
             
             try
             {
-                String baseUrl = "https://api.openweathermap.org/data/2.5/weather";
-                String parameters = $"{baseUrl}?q={Uri.EscapeDataString("new york")}&appid=3df7da9e2ea55fc1cf78aa3d743591ea";
+                String baseUrl = "http://api.openweathermap.org/data/2.5/weather?q=Muscat,om&APPID=a768c37a2a9a1b8f2a07bef5d0409c2d";
+
                 using (HttpClient client = new HttpClient())
                 {
                     HttpResponseMessage respone = await client.GetAsync(baseUrl);
                     if(respone.IsSuccessStatusCode)
                     {
                         string jsonResponse = await respone.Content.ReadAsStringAsync();
+                        WeatherClass weatherData = JsonConvert.DeserializeObject<WeatherClass>(jsonResponse);
                         Console.WriteLine(jsonResponse);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Failed to get data");
                     }
                 }
             }

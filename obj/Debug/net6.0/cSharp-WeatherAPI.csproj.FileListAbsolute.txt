@@ -1,0 +1,17 @@
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\cSharp-WeatherAPI.exe
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\cSharp-WeatherAPI.deps.json
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\cSharp-WeatherAPI.runtimeconfig.json
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\cSharp-WeatherAPI.dll
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\cSharp-WeatherAPI.pdb
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.csproj.AssemblyReference.cache
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.AssemblyInfoInputs.cache
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.AssemblyInfo.cs
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.csproj.CopyComplete
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.dll
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\refint\cSharp-WeatherAPI.dll
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.pdb
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\cSharp-WeatherAPI.genruntimeconfig.cache
+C:\Users\moham\Source\Repos\cSharp-WeatherAPI\obj\Debug\net6.0\ref\cSharp-WeatherAPI.dll
