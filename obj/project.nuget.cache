@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Hf/naW5qEY3l+c37aGH7cSYIwLIkWM7vj6KC6bvr+z7EbRbLy9mw+2JFjFZTURwRjNO5LNegcHcI/nWvsozGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\code-TRA\\git-starter\\cSharp-WeatherAPI\\cSharp-WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
